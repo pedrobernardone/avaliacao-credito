@@ -11,7 +11,7 @@ public class ScoreRiscoService
     {
         _httpClient = new HttpClient
         {
-            BaseAddress = new Uri("https://localhost:8080/")
+            BaseAddress = new Uri("https://localhost:5000/")
         };
     }
 

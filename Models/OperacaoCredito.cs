@@ -1,7 +1,7 @@
 public class OperacaoCredito
 {
     public int Id { get; set; }
-    public int ClientId { get; set; } // Foreign key to Cliente
+    public int ClienteId { get; set; } // Foreign key to Cliente
     public decimal Valor { get; set; } = 0; // Amount of the credit operation
     public int Meses { get; set; } = 0; // Number of months for the credit operation
     public decimal ScoreRisco { get; set; } = 0; // Risk score for the credit operation

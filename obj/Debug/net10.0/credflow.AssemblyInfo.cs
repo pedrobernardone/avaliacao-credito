@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("credflow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f8a5f4c4731fb76af8e7b41542148c964c3242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a052ea97617ef5cf7139619583d0cc64aff6ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("credflow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("credflow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

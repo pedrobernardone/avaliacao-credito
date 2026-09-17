@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 public class CreditoDbContext : DbContext
 {
     public DbSet<Cliente> Clientes { get; set; }
